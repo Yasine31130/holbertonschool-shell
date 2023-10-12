@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -V 'bin'
+grep -n 'bin'
